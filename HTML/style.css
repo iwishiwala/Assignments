@@ -1,0 +1,23 @@
+.header {
+    background-color:black;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    background-color:#eeeeee;
+    color:black;
+    text-align:left;
+    padding:5px;
+}
+#section {
+    width:400px;
+    float:right;
+    padding:5px; 
+}
+table, th, td {
+    border: 3px groove gray;
+}
+h1 {
+    
+}

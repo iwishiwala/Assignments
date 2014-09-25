@@ -1,0 +1,7 @@
+Tasks Done today:
+
+1. HTML5, CSS3 reviewed.
+2. Learnt additional CSS Components and working of it.
+3. Completed an assignment in HTML and CSS given by Arvind.
+4. Reviewed the concept of CSS classes and the various methods to change each component as per our need.
+5. Completed the introductory section of Bootstrap.
